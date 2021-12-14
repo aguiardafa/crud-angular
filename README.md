@@ -1,27 +1,30 @@
 # CrudAngular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.1.
+Projeto criado com fins acadêmicos, sendo construído como atividade do curso `CRUD Angular + Spring` da Youtuber [Loiane Groner](https://loiane.training/).
 
-## Development server
+## Projeto Web - Front-end Angular
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+O projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) version 13.1.1.
 
-## Code scaffolding
+Para executar o Projeto:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+1. Baixe Repositório;
+2. Execute o comando `ng serve` pelo terminal, aberto na raiz do Projeto; e
+3. Acese a seguinte url pelo navegador: `http://localhost:4200/`.
 
-## Build
+Requisitos do Projeto:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+1. Instalação do [Node.js](https://nodejs.org/pt-br/);
+2. Instalação do [Angular CLI](https://angular.io/).
 
-## Running unit tests
+Dica: Guia de setup do Angula CLI `https://angular.io/guide/setup-local`.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+### Sobre o Curso Angular + Spring
 
-## Running end-to-end tests
+Esse curso é totalmente prático e aborda a construção de um Sistema CRUD (leitura, criação, atualização e remoção de registros) 1:N (um para muitos, ou seja, registro principal com detalhes) usando o Angular no Front-end (com Angular Material para a construção da interface visual) e Spring framework no Back-end (Java, abstração do Spring Boot, e Hibernate/JPA para persistência de dados).
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Cabe ressaltar que a Stack Angular com Spring (Java) é muito popular para desenvolvimento de aplicações web, tanto no Brasil, quanto no exterior.
 
-## Further help
+Vale a pena aprender ou reforçar conhecimentos com o Curso da Loiane Groner.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Link para o curso [CRUD Angular + Spring](https://loiane.training/curso/crud-angular-spring)
