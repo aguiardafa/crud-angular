@@ -43,6 +43,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [Angular CLI](https://angular.io/)
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [Angular Material](https://material.angular.io/)
 
 ## Sobre o Curso Angular + Spring
 
