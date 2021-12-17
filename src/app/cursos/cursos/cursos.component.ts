@@ -1,3 +1,4 @@
+import { Curso } from './../model/curso';
 import { Component, OnInit } from '@angular/core';
 
 @Component({
@@ -6,6 +7,12 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./cursos.component.scss'],
 })
 export class CursosComponent implements OnInit {
+  cursos: Curso[] = [
+    { _id: '1', nome: 'Angular', categoria: 'Front-end' },
+    { _id: '2', nome: 'Spring', categoria: 'Back-end' },
+  ];
+  displayedColumns = ['nome', 'categoria'];
+
   constructor() {}
 
   ngOnInit(): void {}
